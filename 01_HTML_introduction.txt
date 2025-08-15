@@ -1,0 +1,33 @@
+1. What is HTML?
+     HTML stands for hyper text markup language, it is the structural language for creating a pages.
+
+2. Who developed HTML?
+    Created by the Tim-Berners-Lee in 1991 at CERN. First of all he Create the html for sharing the Scientific Document through Network.
+
+3. Why use the HTML?
+    The HTML is used to define the structure of the web content like image, audio,text and multimedia. It can easly work with the frameworks and another language for styling and dynamic action.
+
+4. How HTML works?
+    The browsers is convert the html tags to DOM ( DOMIN NAME OBJECT), to scripting and styling, it allow the content updat without page reload.
+
+5. What is semantic tag?
+    semantic tag have a specified meaning for the Browser and the programmer.
+
+6. What are the multimedia element?
+    * video
+    * audio
+    * image
+
+7. What are the time lines of the HTML?
+    * In 1991 - HTMl 1.0 Basic structure( headings, paragraph)
+    * In 1995 - HTML 2.0 Added forms, tables.
+    * In 1197 - HTML 4.0 Introduced CSS &scripting.
+    * In 1999 - HTML 4.01 Redinements.
+    * In 2008 - XHTML 1.0 XML based syntax.
+    * In 2014 - HTML5 semantics, multimedia, Canva, API s.
+    * In 2023 - HTML living standard - continous updated by WHATWG.
+
+8. What is hyperlink?
+    Hyperlink is also a navigator to click the link it moves to the next web content or element.
+
+
