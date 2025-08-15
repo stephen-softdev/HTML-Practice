@@ -28,6 +28,6 @@
     * In 2023 - HTML living standard - continous updated by WHATWG.
 
 8. What is hyperlink?
-    Hyperlink is also a navigator to click the link it moves to the next web content or element.
+    Hyperlink is also a  navigator to click the link it moves to the next web content or element.
 
 
