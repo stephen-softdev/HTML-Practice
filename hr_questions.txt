@@ -1,6 +1,33 @@
-Why should i heir you ?
+1. Why should i heir you ?
 "   
     As I am a fresher and eager to work.
 Also, very excited and passionate to work with our team mattes and our organisation, to increase the project score and new client that leads to grow up our company.
 That’s the reason you should hire me. "
 
+2. Tell about your's self?
+"
+    Good morning to one at all presented here My self  STEPHEN RAJ From Panruti, I Completed my bachelor of Engineering degree in 
+    Computer Science and Engineering at ST. ANNE'S COLLEGE OF ENGINEERING AND TECHNOLOGY .
+
+    Regarding MY skill set I have best expirence in Full stack Web development particularly in front-end i know  HTML,CSS,JAVA SCRIPT,
+    the frame works are  Tailwind, express, the back-end Django, python,node js i am comfortable work with a back-end.
+
+    My hobies are if any crital bug accoured in my project , I will solve the logical probelem related to the bug it helps to easily solve
+    the problem and gain my knowladge.
+
+    My short term goal is i want to grow with our company and become a senior developer or who handle the important project role.
+
+    My long term goal is i want to become a SUBJECT MATTER EXPERT in our company.
+
+"
+3. What are your strength and Weakness ?
+"
+    My Weakness is overthing about the bug and errors i will over come by solving the logical probelm in codechef application it helps
+    to easily solve the bugs, it my strength and Weakness.
+
+"
+
+4.Why do you want to work at our company?
+"
+    It gathered detail about our company it's very intresting vission and target, i am impressed it is the  spark point to attend the interview.
+"
