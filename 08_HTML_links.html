@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>link tag</title>
+    <style>
+        img{
+            width: 50%;
+        }
+        #link11:visited{
+            color: rgb(0, 255, 128);
+            text-decoration: none;
+            background-color: transparent;
+        }
+        #link11:link{
+            color: black;
+            text-decoration: none;
+            background-color: transparent;
+        }
+        #link11:hover{
+            color:rgb(105, 103, 103);
+            text-decoration: none;
+            background-color: transparent;
+        }
+        #link11:active{
+            color: rgb(102, 86, 245);
+            text-decoration: dashed;
+            background-color: transparent;
+        }
+        #btn{
+            padding: 10px;
+            color: white;
+            background-color: blue;
+            border-radius: 12px;
+            
+        }
+    </style>
+</head>
+<body>
+<!-- What is the link tag ?
+        The link tag allow the user to click their way from one  page to another page.
+        -->
+<div class="link">
+    <h1> It is a normal linke</h1>
+    <a href="./01_HTML_introduction.txt"> Html introduction</a>
+</div>
+<!-- What are the types of the url?
+        The url are in the two type.
+            * Absulote url
+            * Relative url -->
+            <br>
+            <br>
+<div class="absulote_url">
+    <h1>It is the Absulote url link</h1>
+    <a href="https://www.zoho.com/"> zoho</a>
+</div>
+<div class="Relative_url">
+    <h1>It is the Relative url</h1>
+    <a href="./05_Qutation_citation.html"> Qutation & Citation Practices</a>
+</div>
+<!-- 
+Who to use a Image as a link?
+    Just put the image tag into the link tag. -->
+
+<div class="img_as_link">
+    <h1>It is the image as a link example</h1>
+    <a href="./India_bix_verbal&reasoning_spoting_errors.txt"><img src="./signup.PNG" alt=""></a>
+</div>
+<!-- 
+What is the mailto: attribute?
+    The mail to attribute is used to generate the mail link. -->
+<div class="mailto_">
+    <h1>Click the Bellow send mail you can contact me easily</h1>
+    <a href="mailto: stephensoftdev@gmail.com"> Send mail</a>
+
+</div>
+<div class="link__with_title">
+    <h1>Bellow provide a tool tip when you hove on it.</h1>
+    <a href="./02_element.html" title="It is a example of the html element">Html element</a>
+</div>
+<div class="html_link_color">
+    <h1>You can see the different color  after and before click the link</h1>
+    <a href="./07_HTML_comments.html" id="link11"> Html comments</a>
+</div>
+<br>
+<div class="link_as_button">
+    <h1> The a tag is converted as a button</h1>
+    <a  id="btn"> submit</a>
+</div>
+<div class="target_attribute">
+    <h1>target attributs</h1>
+    <h2>_self</h2>
+    <a href="https://www.zoho.com/" target="_self"> zoho</a>
+    <h2>_blank</h2>
+    <a href="https://www.zoho.com/" target="_blank"> zoho</a>
+    <h2>_top</h2>
+    <a href="https://www.zoho.com/" target="_top"> zoho</a>
+    <h2>_parent</h2>
+    <a href="https://www.zoho.com/" target="_parent"> zoho</a>
+
+</div>
+</body>
+</html>
