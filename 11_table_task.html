@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>complex table</title>
+    <style>
+        table,tr,td{
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        td{
+            padding: 20px;
+        }
+        table{
+            width: 500px
+        }
+            
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="3">1</td>
+            <td colspan="3">2</td>
+            <td colspan="3">3</td>
+            <td colspan="3">4</td>
+            <td colspan="3">5</td>
+            
+        </tr>
+        <tr>
+            <td colspan="6"></td>
+            <td colspan="9"></td>
+        </tr>
+        <tr>
+            <td colspan="9"></td>
+            <td colspan="6"></td>
+        </tr>
+        <tr>
+            <td colspan="6" rowspan="2"></td>
+            <td colspan="9"></td>
+        </tr>
+        <tr>
+            <td colspan="9"></td>
+        </tr>
+        <tr>
+            <td colspan="5" rowspan="3"></td>
+            <td colspan="5"></td>
+            <td colspan="5" rowspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="5"></td>
+        </tr>
+        <tr>
+            <td colspan="5"></td>
+        </tr>
+        <tr>
+            <td colspan="6"></td>
+            <td colspan="3"></td>
+            <td colspan="6"></td>
+        </tr>
+        <tr>
+            <td colspan="3" rowspan="2"></td>
+            <td colspan="3" rowspan="5"></td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+            <td colspan="3" rowspan="5"></td>
+            <td colspan="3">1</td>
+        </tr>
+        <tr style="height: 10px;"> 
+        </tr>
+        <tr>
+            <td colspan="3">2uuu</td>
+            <td colspan="3" rowspan="3"></td>
+            <td colspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+            <td colspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+            <td colspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="5"></td>
+            <td colspan="5"></td>
+            <td colspan="5"></td>
+            
+        </tr>
+    
+    </table>
+</body>
+</html>
