@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+<style>
+    label{
+        padding: 20px;
+        margin: 5px;
+    }
+    input{
+    padding:10px;
+    border-radius: 12px;
+    }
+</style>
+</head>
+<body>
+    <form>
+<label for="">Name</label>
+<input type="text" placeholder="Enter your name" required><br><br>
+<label for="">phone</label>
+<input type="tel" placeholder="Enter your telephone number" required> <br> <br>
+<label for="">password</label>
+<input type="password" placeholder="Enter your password" required><br><br>
+<label for="">date</label>
+<input type="date" placeholder="Enter your dob" required><br><br>
+<label for="">week</label>
+<input type="week" placeholder="Enter the week" required><br><br>
+<label for="">chech box</label>
+<input type="checkbox" required><br><br>
+<label for="">search</label>
+<input type="search" required> <br><br>
+<label for="">meeting</label>
+<input type="datetime-local" required>
+<br><br>
+<label for="">Quantity</label>
+<input type="number" required>
+<br><br>
+<label for="">url</label>
+<input type="url" placeholder="Enter your url" required>
+<br><br>
+<label for="">file</label>
+<input type="file" required>
+<br><br>
+<label for="">hidden</label>
+<input type="hidden" >
+<br><br>
+<label for="">volume</label>
+<input type="range">
+<br><br>
+<label> Gender</label>
+<label><input type="radio">male</label>
+<label ><input type="radio">female</label>
+<br><br>
+<label for=""> Country</label>
+   <select name="" id="">
+    <option value=""> select country</option>
+    <option value=""> India</option>
+    <option value=""> us</option>
+    <option value=""> China</option>
+   </select> <br><br>
+   <label for="browser"> Browser</label>
+   <input list="browserList">
+   <datalist id="browserList">
+    <option value="google">
+        <option value="fire fox"></option>
+   </datalist>
+   <br><br>
+   <button type="submit"> submit</button>
+   <br><br>
+   <button type="reset">reset</button>
+</form>
+</body>
+</html>
